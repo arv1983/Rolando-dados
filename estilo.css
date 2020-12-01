@@ -1,0 +1,29 @@
+.resultados {
+    width: 300px;
+    background-color: aqua;
+    height: 30px;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    padding: 0px;
+    text-align: right;
+}
+
+.mostrarResultados {
+    width: 310px;
+    border: 2px black solid;
+    margin: 0 auto;
+}
+
+.enche {
+    background-color: red;
+    height: 30px;
+    border: 0px solid black;
+    padding: 0px;
+    margin: 0px;
+    width: 0px;
+}
+
+h1 {
+    text-align: center;
+}
